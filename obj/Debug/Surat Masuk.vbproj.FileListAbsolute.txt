@@ -1,0 +1,33 @@
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\bin\Debug\Surat Masuk.exe
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\bin\Debug\Surat Masuk.pdb
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\bin\Debug\Surat Masuk.xml
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat_Masuk.FormUser.resources
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat_Masuk.Resources.resources
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat_Masuk.SuratMasuk.resources
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat Masuk.vbproj.GenerateResource.Cache
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat Masuk.exe
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat Masuk.xml
+C:\Users\Alal\AppData\Local\Temporary Projects\Surat Masuk\obj\Debug\Surat Masuk.pdb
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat Masuk.exe
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat Masuk.xml
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat Masuk.pdb
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\bin\Debug\Surat Masuk.exe
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\bin\Debug\Surat Masuk.pdb
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\bin\Debug\Surat Masuk.xml
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.FormUser.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.Resources.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.SuratMasuk.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat Masuk.vbproj.GenerateResource.Cache
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.Disposisi.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.MenuUtama.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.LoginForm1.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.test.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.SuratKeluar1.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.Disposisi1.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.LapSuratMasuk.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.contoh.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.LapSuratKeluar.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.LapDisposisi.resources
+C:\Users\Alal\Documents\Visual Studio 2008\Projects\Surat Masuk\Surat Masuk\obj\Debug\Surat_Masuk.Cetak1.resources
